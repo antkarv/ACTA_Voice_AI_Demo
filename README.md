@@ -13,8 +13,7 @@ An end-to-end Voice AI system that answers telecom-related questions in Greek us
 Designed as an AI portfolio demo demonstrating graph-based orchestration, multi-provider LLM support, and voice interaction.
 
 ---
-```markdown
+
 ## 🖥️ Demo Interface
 
 ![Voice AI UI](assets/UI.PNG)
-```
