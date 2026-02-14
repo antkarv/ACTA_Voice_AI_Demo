@@ -1,6 +1,12 @@
 # 🎙️ ACTA Voice AI Demo  
 ### Greek Telecom Voice Assistant powered by LangGraph
 
+🚀 **Live Demo:**  
+👉 https://huggingface.co/spaces/ankarb/gradio-whisper-langgraph
+
+> ⚠️ If the demo appears inactive, please wait ~30 seconds for the Space to wake up.
+
+
 An end-to-end Voice AI system that answers telecom-related questions in Greek using a structured pipeline:
 
 - 🎤 Speech-to-Text (Faster-Whisper)
