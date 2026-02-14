@@ -16,7 +16,5 @@ Designed as an AI portfolio demo demonstrating graph-based orchestration, multi-
 
 ## 🖥️ Demo Interface
 
-> Add your screenshot inside `assets/ui.png`
-
 ```markdown
-![Voice AI UI](assets/ui.png)
+![Voice AI UI](assets/UI.PNG)
