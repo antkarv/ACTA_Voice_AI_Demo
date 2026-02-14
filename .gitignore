@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Virtual environment
+.venv/
+env/
+
+# Hugging Face
+.gradio/
+.langgraph_api/
+
+# LangGraph state files
+*.pkl
+
+# Environment variables
+.env
+
+# Audio files
+*.wav
+
+# Old versions
+old/
+Hugging Face Spaces/
+
+# Documents
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db

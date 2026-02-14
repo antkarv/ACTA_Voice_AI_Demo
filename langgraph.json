@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "voice_app": "app_langgraph_full:VOICE_APP"
+  }
+}
