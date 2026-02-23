@@ -30,6 +30,8 @@ Pipeline Components <br>
 - 🔁 LangGraph StateGraph Orchestration
 - 🖥️ Gradio UI (HuggingFace Spaces deployment)
 
+The graph design isolates speech processing, reasoning, and evaluation as independent nodes, enabling modular extension and clearer observability.
+
 ---
 ```mermaid
 flowchart TB
