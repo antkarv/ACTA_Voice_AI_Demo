@@ -76,6 +76,6 @@ This demo shows how graph-based orchestration enables:
 ## 👨‍💻 Author
 
 **Antonios Karvelas**  
-AI Systems Engineer | Telecom Architect  
+AI Systems Architect | Telecom Systems Architect  
 
 ---
