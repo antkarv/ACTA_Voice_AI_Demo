@@ -40,7 +40,15 @@ flowchart TB
 
 ```
 
-
 ## 🖥️ Demo Interface
 
 ![Voice AI UI](assets/UI.PNG)
+
+---
+
+## 👨‍💻 Author
+
+**Antonios Karvelas**  
+AI Systems Engineer | Telecom Architect  
+
+---
