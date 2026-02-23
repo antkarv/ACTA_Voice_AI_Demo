@@ -16,7 +16,9 @@ This project demonstrates graph-based orchestration using LangGraph, enabling:
 - Multi-LLM provider flexibility
 - Confidence scoring
 - Modular speech components
-Designed as an architecture-focused demo showcasing how voice interfaces can be built using explicit state graphs instead of monolithic chains.
+
+Designed as an architecture-focused demo showcasing how voice interfaces can be built using explicit state graphs instead of monolithic chains, 
+and with extensibility in mind, allowing future integration of RAG nodes, tool-calling, or persistent memory.
 
 ---
 🏗️ **System Architecture <br>**
